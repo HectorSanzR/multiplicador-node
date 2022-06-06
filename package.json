@@ -1,0 +1,16 @@
+{
+  "name": "01-bases-node",
+  "version": "0.0.1",
+  "description": "Esta es una tabla de multiplicar esto vale huevo",
+  "main": "app.js",
+  "scripts": {
+    "test": "test",
+    "base3": "node app --base=3"
+  },
+  "author": "Hector sanchez",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.5.1"
+  }
+}
